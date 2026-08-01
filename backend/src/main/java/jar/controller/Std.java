@@ -13,17 +13,24 @@ import org.springframework.web.bind.annotation.RestController;
 
 import jar.model.Student;
 import jar.repo.StudentRepo;
+import jar.services.Users;
 
 @RestController
 @RequestMapping("/std")
 public class Std {
+
+    Users u;
+
+    Std(Users u) {
+        this.u = u;
+    }
 
     @GetMapping()
     Map<Object, Object> m1() {
         Map<Object, Object> res = new HashMap<>();
         res.put("api", "welcome to get api");
         res.put("status", 200);
-        res.put("student data", all());
+        res.put("student data", u.all());
         return res;
 
     }
@@ -54,7 +61,4 @@ public class Std {
 
     }
 
-    List<Student> all() {
-        return db.findAll();
-    }
 }
