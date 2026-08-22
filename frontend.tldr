@@ -1717,9 +1717,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 7135.1784613616155,
-			"y": 5717.175423379429,
-			"z": 0.05,
+			"x": 5045.78769259678,
+			"y": -1162.8584334443817,
+			"z": 0.11316426939899091,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -1830,7 +1830,7 @@
 			"meta": {},
 			"id": "page:YhZ-kfsMRFu4WjJiJpNt9",
 			"name": "state",
-			"index": "a5vyr",
+			"index": "a4wSW8",
 			"typeName": "page"
 		},
 		{
@@ -5807,7 +5807,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:xWxhs3a4HleBRvygDkk7v",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -7113,9 +7113,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": 732.3133966776272,
+			"y": -456.5040064228067,
+			"z": 0.42047103874486347,
 			"meta": {},
 			"id": "camera:page:qNImAevCajzA6ZX4RxPFl",
 			"typeName": "camera"
@@ -7237,9 +7237,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": -70.39814368238996,
+			"y": -180.18237666903127,
+			"z": 0.471831184233525,
 			"meta": {},
 			"id": "camera:page:YvXRnxPwlDdtLPWH3YMMy",
 			"typeName": "camera"
@@ -7955,7 +7955,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 742.7777099609375,
+				"w": 741.6666259765625,
 				"h": 506.6666259765625
 			},
 			"insets": [
@@ -7972,8 +7972,8 @@
 			"highlightedUserIds": [],
 			"isFocused": true,
 			"devicePixelRatio": 1.8000000715255737,
-			"isCoarsePointer": true,
-			"isHoveringCanvas": null,
+			"isCoarsePointer": false,
+			"isHoveringCanvas": false,
 			"openMenus": [],
 			"isChangingStyle": false,
 			"isReadonly": false,
@@ -7981,7 +7981,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:page",
+			"currentPageId": "page:YhZ-kfsMRFu4WjJiJpNt9",
 			"typeName": "instance"
 		},
 		{
@@ -8458,9 +8458,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": 306.35504914701824,
+			"y": -500.3213605295945,
+			"z": 0.22864253783847516,
 			"meta": {},
 			"id": "camera:page:YhZ-kfsMRFu4WjJiJpNt9",
 			"typeName": "camera"
@@ -10190,9 +10190,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 0,
-			"y": 0,
-			"z": 1,
+			"x": 249.53434711215485,
+			"y": 360.57989470218985,
+			"z": 0.24185810993460527,
 			"meta": {},
 			"id": "camera:page:AxQ8fzrq1KhEVkjj-Ju0J",
 			"typeName": "camera"
