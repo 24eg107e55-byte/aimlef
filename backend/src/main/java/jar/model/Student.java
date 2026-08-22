@@ -24,6 +24,11 @@ public class Student {
 
     }
 
+    public Long getId() {
+        return this.id;
+
+    }
+
     public void setName(String n) {
         this.name = n;
     }
