@@ -1717,8 +1717,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 6528.3889105803655,
-			"y": 3744.642487283237,
+			"x": 7135.1784613616155,
+			"y": 5717.175423379429,
 			"z": 0.05,
 			"meta": {},
 			"id": "camera:page:page",
@@ -1908,11 +1908,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:gmEYifHMhoDVdqtCULjOE",
-				"shape:iZ9_5bueEpea8tnB17_fF"
-			],
-			"hoveredShapeId": "shape:gmEYifHMhoDVdqtCULjOE",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -2098,15 +2095,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:VpZVFgN2FJzleZW4Yx0L-",
-				"shape:sHqzNGxINt8tRQGjHK73K",
-				"shape:qqW9nULluluzh9sDiEXWj",
-				"shape:9i-DuLdDanMDy18hSgjqT",
-				"shape:O6czUZWwK2KMc4izNN3jt",
-				"shape:iueT9VJHK1LBHen6oVSzZ",
-				"shape:T21qPM6J6wCS2KEEFOKwi"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -3252,9 +3241,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -185.13082314470466,
-			"y": 1360.317516519076,
-			"z": 0.11116181024455427,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:0GPxM-28Ttk7X8pYaWv1m",
 			"typeName": "camera"
@@ -3698,9 +3687,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1638.9551813515989,
-			"y": 383.643437420533,
-			"z": 0.22017122940723682,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:S8pyn6LD-P8pLKpWUiVE5",
 			"typeName": "camera"
@@ -5100,7 +5089,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:mwCW6R95W5nOuBGumG63p",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -5113,7 +5102,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:XFcxWudVAf_zhP99FoDsa",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -5245,7 +5234,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:fsZcDYyAtxjpuXfrdISHt",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -5817,9 +5806,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:cwE0Jc9FlBEAKnq5fWRLc"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -7126,9 +7113,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 157.81428195120301,
-			"y": -703.9647739505115,
-			"z": 1.7110210377978416,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:qNImAevCajzA6ZX4RxPFl",
 			"typeName": "camera"
@@ -7250,9 +7237,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -1260.9622754682387,
-			"y": -644.3837374240746,
-			"z": 0.6078599857944142,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:YvXRnxPwlDdtLPWH3YMMy",
 			"typeName": "camera"
@@ -7665,9 +7652,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -222.14653358642113,
-			"y": -557.0235262262817,
-			"z": 0.5253531873298725,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:24Si3QgY185dhThqhxCSb",
 			"typeName": "camera"
@@ -7954,9 +7941,7 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:dash": "draw"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
@@ -7970,8 +7955,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 727.7777099609375,
-				"h": 502.2221984863281
+				"w": 742.7777099609375,
+				"h": 506.6666259765625
 			},
 			"insets": [
 				false,
@@ -7996,7 +7981,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:0GPxM-28Ttk7X8pYaWv1m",
+			"currentPageId": "page:page",
 			"typeName": "instance"
 		},
 		{
@@ -8473,9 +8458,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -2273.6569595718374,
-			"y": -1536.9128984862468,
-			"z": 0.3133663422695664,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:YhZ-kfsMRFu4WjJiJpNt9",
 			"typeName": "camera"
@@ -10205,9 +10190,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -41.50589959331501,
-			"y": 370.6903479081327,
-			"z": 0.3704808154028252,
+			"x": 0,
+			"y": 0,
+			"z": 1,
 			"meta": {},
 			"id": "camera:page:AxQ8fzrq1KhEVkjj-Ju0J",
 			"typeName": "camera"
